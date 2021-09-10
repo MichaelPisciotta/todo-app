@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "description": "finish project"
+    },
+    {
+      "id": 2,
+      "description": "finish homework"
+    },
+    {
+      "todo": {
+        "description": "hey"
+      },
+      "id": 3
+    },
+    {
+      "todo": {
+        "description": "whats up"
+      },
+      "id": 4
+    },
+    {
+      "todo": {
+        "description": "finish project "
+      },
+      "id": 5
+    },
+    {
+      "todo": {
+        "description": "finsih homework"
+      },
+      "id": 6
+    }
+  ]
+}
